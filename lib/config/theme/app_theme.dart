@@ -4,7 +4,7 @@ const colorList = <Color>[
   Colors.blue,
   Colors.teal,
   Colors.purple,
-  Colors.amber,
+  Colors.pink,
   Colors.cyanAccent,
   Colors.blueGrey,
   Colors.orange
